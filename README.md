@@ -84,7 +84,7 @@ Pix is a React Native and Firebase competition app. The Admin posts pictures for
 
   <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>BoxKart</h2>
-        <img src="https://drive.google.com/file/d/1mLaN1PI8CNJthLnNlcc9_fdRU8ThVn_Z/view?usp=drive_link" alt="Logo" style="max-width: 100%;    
+        <img src="images/boxkart.png" alt="Logo" style="max-width: 100%;    
               height: 80px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
@@ -99,7 +99,7 @@ BoxKart is an Angular inventory management and crafting web application built wi
   </div>
     <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Identify</h2>
-                    <img src="https://drive.google.com/file/d/1qKFB8z6LGyLCs2xi0xUIg0fSNDHPLCuQ/view?usp=drive_link" alt="Logo" style="max-width: 100%;    
+                    <img src="images/identify.png" alt="Logo" style="max-width: 100%;    
               height: 70px; margin-bottom: 20px; border-radius: 5px;">
     </br>
     </br>
