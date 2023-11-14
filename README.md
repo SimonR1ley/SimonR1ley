@@ -75,7 +75,7 @@ const Simon = {
 Pix is a React Native and Firebase competition app. The Admin posts pictures for other users to win. Users click the image they're intrested in and set a time holding a button. The user with the heighest time after 24hrs wins the image. Users recieve 300 credits daily which allows them a second opportunity to own an image they did not win by making an offer on the image and waiting for the owner of the image to either accept or decline their offer.
         <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/SimonR1ley/Pix">
-          <img alt="Front end" title="Open Overflow"              
+          <img alt="View Pix" title="Open Overflow"              
               src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
@@ -91,7 +91,7 @@ Pix is a React Native and Firebase competition app. The Admin posts pictures for
 BoxKart is an Angular inventory management and crafting web application built with MongoDB that makes use of Three JS. BoxKart gives users building blocks which they use to build Box Karts. Users have access to bodies and wheels. They need to manage their inventory correctly which will allow them to build the karts. 
         <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/SimonR1ley/BoxKart">
-          <img alt="Front end" title="BoxKart"              
+          <img alt="View BoxKart" title="BoxKart"              
               src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
@@ -107,7 +107,7 @@ Identify is a React Native and Firebase application that helps users identify fo
     </br>
   <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/SmonR1ley/Identify">
-          <img alt="Front end" title="Identify"              
+          <img alt="View Identify" title="Identify"              
               src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
