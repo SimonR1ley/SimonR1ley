@@ -7,8 +7,8 @@
 
 <p align="left" > I am a developer on a mission to master my craft.  </p>
 
-<h4 align="left" >:man: Junior Developer at ClickMod </h4>
-<h4 align="left" >:man: Check out my <a href="littlemenace.co.za ">Website</a></h4>
+<h4 align="left" >:ninja: Junior Developer at ClickMod </h4>
+<h4 align="left" >:computer: Check out my <a href="littlemenace.co.za ">Website</a></h4>
 
 <br/>
 
