@@ -70,7 +70,7 @@ const Simon = {
 <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Pix</h2>
             <img src="images/pix.png" alt="Logo" style="max-width: 100%;    
-              height: 250px; margin-bottom: 20px; border-radius: 5px;">
+              height: 350px; margin-bottom: 20px; border-radius: 5px;">
 </br>
 </br>
 Pix is a React Native and Firebase competition app. The Admin posts pictures for other users to win. Users click the image they're intrested in and set a time holding a button. The user with the heighest time after 24hrs wins the image. Users recieve 300 credits daily which allows them a second opportunity to own an image they did not win by making an offer on the image and waiting for the owner of the image to either accept or decline their offer.
@@ -85,7 +85,7 @@ Pix is a React Native and Firebase competition app. The Admin posts pictures for
   <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>BoxKart</h2>
         <img src="images/boxkart.png" alt="Logo" style="max-width: 100%;    
-              height: 250px; margin-bottom: 20px; border-radius: 5px;">
+              height: 350px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
 </br>
@@ -100,7 +100,7 @@ BoxKart is an Angular inventory management and crafting web application built wi
     <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Identify</h2>
                     <img src="images/identify.png" alt="Logo" style="max-width: 100%;    
-              height: 250px; margin-bottom: 20px; border-radius: 5px;">
+              height: 350px; margin-bottom: 20px; border-radius: 5px;">
     </br>
     </br>
 Identify is a React Native and Firebase application that helps users identify food items and get their nutritional information. Identify uses 2 APIS, one from Clarifai and one From Edamam. The API from Clarifai is an AI model that identifies objects in pictures and the one from Edamam gets the nutritional information using keywords, for example Apple. Users take a picture of the food item they want to identify, the application analysis it and will display the nutritional information if the user is interested.
