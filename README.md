@@ -69,7 +69,7 @@ const Simon = {
 
 <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Pix</h2>
-            <img src="../images/pix.png" alt="Logo" style="max-width: 100%;    
+            <img src="images/pix.png" alt="Logo" style="max-width: 100%;    
               height: 80px; margin-bottom: 20px; border-radius: 5px;">
 </br>
 </br>
