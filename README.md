@@ -77,7 +77,7 @@ Pix is a React Native and Firebase competition app. The Admin posts pictures for
         <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/SimonR1ley/Pix">
           <img alt="View Pix" title="Open Overflow"              
-              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
+              src="https://custom-icon-badges.demolab.com/badge/View%20Pix%20-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
   </div>
@@ -93,7 +93,7 @@ BoxKart is an Angular inventory management and crafting web application built wi
         <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/SimonR1ley/BoxKart">
           <img alt="View BoxKart" title="BoxKart"              
-              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
+              src="https://custom-icon-badges.demolab.com/badge/View%20BoxKart%20-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
   </div>
@@ -109,7 +109,7 @@ Identify is a React Native and Firebase application that helps users identify fo
   <div style="display: flex; justify-content: space-between">
         <a href="https://github.com/SmonR1ley/Identify">
           <img alt="View Identify" title="Identify"              
-              src="https://custom-icon-badges.demolab.com/badge/View%20front%20end-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
+              src="https://custom-icon-badges.demolab.com/badge/View%20Identify%20-red.svg?style=for-the-badge&logo=code&logoSource=feather"/>
         </a>
      </div>
   </div>
