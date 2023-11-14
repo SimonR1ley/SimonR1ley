@@ -70,7 +70,7 @@ const Simon = {
 <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Pix</h2>
             <img src="images/pix.png" alt="Logo" style="max-width: 100%;    
-              height: 80px; margin-bottom: 20px; border-radius: 5px;">
+              height: 120px; margin-bottom: 20px; border-radius: 5px;">
 </br>
 </br>
 Pix is a React Native and Firebase competition app. The Admin posts pictures for other users to win. Users click the image they're intrested in and set a time holding a button. The user with the heighest time after 24hrs wins the image. Users recieve 300 credits daily which allows them a second opportunity to own an image they did not win by making an offer on the image and waiting for the owner of the image to either accept or decline their offer.
