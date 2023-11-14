@@ -69,7 +69,7 @@ const Simon = {
 
 <div style="margin-right: .25rem; margin-bottom: .5rem">
         <h2>Pix</h2>
-            <img src="https://drive.google.com/file/d/1BVezZ7pFO0x16Z__aaMaQtcoh8g9uEGn/view?usp=drive_link" alt="Logo" style="max-width: 100%;    
+            <img src="https://drive.google.com/drive/folders/1wiQ37_9OOvdKwV0hB1kh8kK8w9LLElWk" alt="Logo" style="max-width: 100%;    
               height: 80px; margin-bottom: 20px; border-radius: 5px;">
 </br>
 </br>
