@@ -57,9 +57,6 @@ const Simon = {
 
 <div  style="display: flex; flex-direction: row">
   
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonR1ley&show_icons=true&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonR1ley&hide=php&theme=shadow_blue) 
-  
 </div>
 
 
